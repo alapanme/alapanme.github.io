@@ -1,0 +1,54 @@
+#headertext{
+	color: whitesmoke;
+    margin-left: 500px;
+    padding-top: 35px;
+    font-size: xx-large;
+	}
+#main{
+    position: absolute;
+    margin: -200px 0 0 -200px;
+    top: 50%;
+    left: 50%;
+	border-style: solid;
+    border-width: 3px;
+	border-radius: 6px;
+	padding: 33px;
+	background-color: #FFC0B3;
+}
+#h2 {
+    margin-top: -3px;
+    padding-bottom: 5px;
+	color: royalblue;
+}
+#number1 {
+margin-left: 12px;
+}
+#number2 {
+margin-left: 12px;
+}
+#result{
+margin-left: 12px;
+}
+
+#calctext{
+color: royalblue;
+font-size: large;
+font-weight: bold;
+padding: 10px 0px 5px 12px;
+}
+#radio {
+    margin-top: -10px;
+	padding: 0px 0px 5px 89px;
+}
+#submit{
+margin-left: 81px;
+    padding: 7px 33px;
+    border-radius: 4px;
+	background-color: chartreuse;
+    font-weight: bold;
+	}
+body {
+    background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+}
+	
